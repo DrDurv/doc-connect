@@ -12,8 +12,9 @@
         <title>Doc Connect</title>
     </head>
     <body>
+
         <h1>Doc Connect</h1>    
         <form action="/logout.php"><input type="submit" value="Logout"></form>
-        
+
     </body>
 </html>
